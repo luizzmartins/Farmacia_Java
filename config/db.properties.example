@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/farmacia_db?connectionTimeZone=UTC&connectTimeout=5000&socketTimeout=15000
+db.user=root
+db.password=

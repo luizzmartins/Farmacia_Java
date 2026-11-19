@@ -1,0 +1,4 @@
+/out/
+/config/db.properties
+/.idea/*
+!/.idea/modules.xml
